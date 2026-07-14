@@ -16,7 +16,7 @@ const PRECIOS = {
 };
 
 const CONFIG = {
-  whatsapp: "5493329634198",
+  whatsapp: "5493329201168",
   // Link de pago de Mercado Pago (opcional)
   mercadopago: "",
 };
